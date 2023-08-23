@@ -66,7 +66,7 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 
 ## Acknowledgements
 - This project was inspired by Upgrad MS course for ML and AI
-- This project was based on [this tutorial](https://www.upgrad.com/masters-in-ml-ai-ljmu/).
+- This project was based on [this course](https://www.upgrad.com/masters-in-ml-ai-ljmu/).
 
 
 ## Contact
